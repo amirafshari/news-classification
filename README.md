@@ -1,2 +1,2 @@
 # News Classification
-Fine Tune a LM for News Classification
+Fine-tune a LM for News Classification
